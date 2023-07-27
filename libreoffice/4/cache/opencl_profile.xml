@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile>
+ <version>LibreOffice v1</version>
+ <device>
+  <type>opencl</type>
+  <name>pthread-haswell-AMD Ryzen 7 PRO 2700U w/ Radeon Vega Mobile Gfx</name>
+  <driver>3.1+debian</driver>
+  <time>255133</time>
+  <errors>false</errors>
+ </device>
+ <device>
+  <type>native</type>
+  <time>2225664</time>
+  <errors>false</errors>
+ </device>
+</profile>

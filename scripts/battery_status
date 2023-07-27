@@ -1,0 +1,36 @@
+#!/bin/bash
+#
+LEVEL=$(acpi | awk -F, '{print $2}' )
+value="${LEVEL#" "}"
+value="${value%\%}"
+STATUS=$(acpi | awk '{print $3}')
+if [[ $STATUS == "Charging," ]];then
+    echo "$LEVEL"
+else
+    case $value in
+        10)
+            echo "$LEVEL"
+        ;;
+        1[0-9]|2[0-4])
+            echo "$LEVEL"
+            # Do something for numbers less than 25
+        ;;
+        2[5-9]|3[0-9]|4[0-9]|50)
+            echo "$LEVEL"
+            # Do something for numbers between 25 and 50
+        ;;
+        5[1-9]|6[0-9]|7[0-5])
+            echo "$LEVEL"
+            # Do something for numbers between 51 and 75
+        ;;
+        7[6-9]|8[0-9]|9[0-9]|100)
+            echo "$LEVEL"
+            # Do something for numbers between 76 and 100
+        ;;
+        *)
+            echo "Invalid value or value not matched"
+            echo "space?$value"
+        ;;
+    esac
+fi
+

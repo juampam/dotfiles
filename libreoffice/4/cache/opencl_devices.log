@@ -1,0 +1,18 @@
+Device Index: 0
+  Selected: false
+  Device Name: pthread-haswell-AMD Ryzen 7 PRO 2700U w/ Radeon Vega Mobile Gfx
+  Device Vendor: AuthenticAMD
+  Device Version: OpenCL 3.0 PoCL HSTR: pthread-x86_64-pc-linux-gnu-haswell
+  Driver Version: 3.1+debian
+  Device Type: cpu 
+  Device Extensions: cl_khr_byte_addressable_store cl_khr_global_int32_base_atomics   cl_khr_global_int32_extended_atomics cl_khr_local_int32_base_atomics   cl_khr_local_int32_extended_atomics cl_khr_3d_image_writes cl_khr_command_buffer cl_khr_spir cl_khr_int64_base_atomics cl_khr_int64_extended_atomics cl_khr_fp64
+  Device OpenCL C Version: OpenCL C 1.2 PoCL
+  Device Available: true
+  Device Compiler Available: true
+  Device Linker Available: true
+  Platform Name: Portable Computing Language
+  Platform Vendor: The pocl project
+  Platform Version: OpenCL 3.0 PoCL 3.1+debian  Linux, None+Asserts, RELOC, SPIR, LLVM 15.0.6, SLEEF, DISTRO, POCL_DEBUG
+  Platform Profile: FULL_PROFILE
+  Platform Extensions: cl_khr_icd cl_pocl_content_size
+

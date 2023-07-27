@@ -1,0 +1,24 @@
+# GIMP action-history
+
+(history-item "edit-clear" 5)
+(history-item "edit-paste" 2)
+(history-item "select-stroke" 1)
+(history-item "edit-copy" 2)
+(history-item "tools-aspect-increase" 0)
+(history-item "tools-aspect-decrease" 0)
+(history-item "file-export" 2)
+(history-item "file-open" 0)
+(history-item "edit-cut" 0)
+(history-item "layers-delete" 0)
+(history-item "file-overwrite" 0)
+(history-item "image-new" 0)
+(history-item "file-export-as" 0)
+(history-item "file-quit" 1)
+(history-item "tools-warp" 0)
+(history-item "tools-rotate" 0)
+(history-item "tools-by-color-select" 0)
+(history-item "tools-fuzzy-select" 0)
+(history-item "select-all" 0)
+(history-item "windows-show-display-next" 1)
+
+# end of action-history

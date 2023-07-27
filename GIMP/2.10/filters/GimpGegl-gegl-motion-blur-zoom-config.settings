@@ -1,0 +1,9 @@
+# settings
+
+(GimpGegl-gegl-motion-blur-zoom-config "2023-07-21 17:43:25"
+    (time 1689983005)
+    (center-x 0.5)
+    (center-y 0.5)
+    (factor 0.10000000000000001))
+
+# end of settings
