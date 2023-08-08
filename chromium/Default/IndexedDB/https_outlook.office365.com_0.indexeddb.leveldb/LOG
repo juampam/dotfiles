@@ -1,3 +1,0 @@
-2023/06/23-11:16:16.823 18a5 Creating DB /home/juampa/.config/chromium/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb since it was missing.
-2023/06/23-11:16:16.827 18a5 Reusing MANIFEST /home/juampa/.config/chromium/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/06/23-11:16:21.433 18a8 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

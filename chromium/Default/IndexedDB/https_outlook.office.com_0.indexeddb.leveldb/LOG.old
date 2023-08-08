@@ -1,7 +1,0 @@
-2023/06/23-14:57:14.184 97f Reusing MANIFEST /home/juampa/.config/chromium/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/06/23-14:57:14.185 97f Recovering log #4
-2023/06/23-14:57:14.185 97f Reusing old log /home/juampa/.config/chromium/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/000004.log 
-2023/06/23-14:57:15.020 9a7 Level-0 table #8: started
-2023/06/23-14:57:15.023 9a7 Level-0 table #8: 554 bytes OK
-2023/06/23-14:57:15.025 9a7 Delete type=0 #4
-2023/06/23-14:57:15.026 97f Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
